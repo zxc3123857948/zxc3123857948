@@ -1,2 +1,3 @@
 A student form china
-![Anurag's ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxc3123857948&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxc3123857948&count_private=true)
